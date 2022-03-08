@@ -16,6 +16,7 @@
     "device-brightness",
     "brightness"
   ],
+  "homepage": "https://github.com/jeslabs/react-native-device-brightness#README",
   "author": "Calvin Huang <calvin.peak@capslock.tw> (https://github.com/Calvin-Huang)",
   "license": "MIT",
   "devDependencies": {
